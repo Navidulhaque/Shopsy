@@ -85,5 +85,5 @@ lib/
 - Google Fonts (Inter)
 
 ## Download APK
-- Latest release APK: [Download Shopsy APK]([https://example.com/shopsy-latest.apk](https://drive.google.com/file/d/1hpJt8cZlfkW2nHbVFSdhZ0cR3dEDryS1/view?usp=sharing))
+- Latest release APK: [Download Shopsy APK](https://drive.google.com/file/d/1hpJt8cZlfkW2nHbVFSdhZ0cR3dEDryS1/view?usp=sharing)
 
