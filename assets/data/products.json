@@ -1,0 +1,15 @@
+[
+  {"id":"1","title":"T-Shirt","description":"Soft cotton tee","price":19.99,"imageUrl":"https://fullyfilmy.in/cdn/shop/products/New-Mockups---no-hanger---TShirt-Yellow.jpg?v=1747992993","type":"Clothing"},
+  {"id":"2","title":"Jeans","description":"Regular fit denim","price":49.99,"imageUrl":"https://imagescdn.aeo.in/img/app/product/3/39834251-18296287.jpg?auto=format&w=390","type":"Clothing"},
+  {"id":"3","title":"Sneakers","description":"Comfort everyday shoes","price":79.5,"imageUrl":"https://www.superkicks.in/cdn/shop/files/1_0f042c7f-923b-4615-b0b2-09b9b68a9671.jpg?v=1746130640&width=533","type":"Footwear"},
+  {"id":"4","title":"Hoodie","description":"Cozy fleece hoodie","price":39.99,"imageUrl":"https://assets.myntassets.com/w_412,q_30,dpr_3,fl_progressive,f_webp/assets/images/2025/SEPTEMBER/9/WMiHOD80_ceedfd08eae64354aef8d7420cf82a90.jpg","type":"Clothing"},
+  {"id":"5","title":"Jacket","description":"Lightweight Red windbreaker","price":59.99,"imageUrl":"https://theclothingfactory.in/cdn/shop/files/TCF_17-10-241009_1800x.jpg?v=1731042055","type":"Outerwear"},
+  {"id":"6","title":"Cap","description":"Classic Mercedes cap","price":14.99,"imageUrl":"https://assets.adidas.com/images/w_600,f_auto,q_auto/5292d0dfe0f84c75a1d2532b8278347f_faec/MERCEDES_-_AMG_PETRONAS_FORMULA_ONE_TEAM_DRIVER_CAP_Blue_JW6269_dbHM1.tiff.jpg","type":"Accessories"},
+  {"id":"7","title":"Backpack","description":"Everyday carry backpack","price":69.0,"imageUrl":"https://m.media-amazon.com/images/I/71upOmer8BL._AC_UY1100_.jpg","type":"Bags"},
+  {"id":"8","title":"Watch","description":"Minimalist Premium wrist watch","price":129.0,"imageUrl":"https://5.imimg.com/data5/ANDROID/Default/2022/2/GJ/OK/JY/90018543/product-jpeg.jpg","type":"Accessories"},
+  {"id":"9","title":"Sunglasses","description":"Polarized sunglasses","price":24.5,"imageUrl":"https://image.the-woggles.com/cache/catalog/products/woggles_new_image_9_12_2022/midnight_polarized_wayfarer_sunglasses_base_28-9-2023_700x700.jpg","type":"Accessories"},
+  {"id":"10","title":"Socks","description":"Cool Gen-z socks","price":9.99,"imageUrl":"https://www.dynamocks.com/cdn/shop/files/Samosa.jpg?v=1731301890&width=1500","type":"Clothing"},
+  {"id":"11","title":"Belt","description":"Genuine leather belt","price":29.99,"imageUrl":"https://pictures.kartmax.in/outside/live/400x400/quality=6/sites/StAFxmqh5LfPz3ZQSdCh/product-images/WP36113_a.jpg","type":"Accessories"},
+  {"id":"12","title":"Zip Hoodie","description":"Comfy zip-up hoodie","price":44.99,"imageUrl":"https://www.thestyleedit.technopark.in/web/image/product.product/607/image_1024/Premium%20Zip-Up%20Hoodie%20(XS,%20Olive%20Green)?unique=9580952","type":"Clothing"}
+]
+
