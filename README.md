@@ -84,36 +84,6 @@ lib/
 - SharedPreferences (local persistence)
 - Google Fonts (Inter)
 
-## Running locally
-```bash
-flutter pub get
-flutter run
-```
-
-## Building APK/IPA
-```bash
-# Android debug APK
-flutter build apk --debug
-
-# Android profile or release
-flutter build apk --profile
-flutter build apk --release
-
-# iOS (requires Xcode setup)
-flutter build ios --release
-```
-
 ## Download APK
-The CI/build process outputs APKs under `build/app/outputs/flutter-apk/` or `build/app/outputs/apk/`.
+- Latest release APK: [Download Shopsy APK]([https://example.com/shopsy-latest.apk](https://drive.google.com/file/d/1hpJt8cZlfkW2nHbVFSdhZ0cR3dEDryS1/view?usp=sharing))
 
-Direct links (local paths in this repository after build):
-- Debug: `build/app/outputs/flutter-apk/app-debug.apk`
-- Profile: `build/app/outputs/flutter-apk/app-profile.apk`
-
-If you host the APK externally, add your link here, for example:
-- Latest release APK: [Download Shopsy APK](https://example.com/shopsy-latest.apk)
-
-## Tests
-```bash
-flutter test
-```
