@@ -9,10 +9,7 @@ Shopsy is a simple e-commerce sample app built with Flutter showcasing a clean M
 - Project structure
 - Key components
 - Tech stack
-- Running locally
-- Building APK/IPA
 - Download APK
-- Tests
 
 ## Features
 - Product list with search
